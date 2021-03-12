@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=4lsMeHbSr74
+
+Bienvenu sur Soboua Technologie
+Dans ce N-ième Tuto consacré à la sécurité électronique.
+Dans ce Tuto nous faisons la conception d'une serrure codée basé sur Arduino.
+N'oubliez pas de vous abonnée pour nos prochains Tuto.
+
+Après avoir réalisé le schéma du tuto
+Procédez comme suite :
+1-Téléverser le code suivant sur votre carte arduino 
+(Ce  code permet d’écriture le code initial d'ouverture de la serrure dans la mémoire EEPROM d'arduino).
+Lien : https://drive.google.com/drive/folder...​
+2- Ensuite téléverser le code suivant :
+(Pour valider le code d'ouverture de la serrure sur le clavier vous tapez sur *)
+Lien :
+https://drive.google.com/drive/folder...​
+Le code initial est : 1234
+Si vous avez des questions, n’hésitez pas de les mentionner dans les commentaires.
+A bientôt...
